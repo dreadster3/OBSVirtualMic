@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 mic_name="OBSMic"
 combined_sink_name="OBSCombined"
 
